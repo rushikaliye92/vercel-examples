@@ -5,7 +5,7 @@ echo "Helllo" ; die ();
 $servername = "localhost";
 $username = "id16918211_recipe_user";
 $password = "b8*db8&K(m|OrF3(";
-$db = "id16918211_php_auth_api";
+$db = "id16918211_php_auth_api"; 
 
 try {
   $conn = new PDO("mysql:host=$servername;dbname=$db", $username, $password);
