@@ -1,5 +1,7 @@
 <?php 
 
+echo "Helllo" ; die ();
+
 $servername = "localhost";
 $username = "id16918211_recipe_user";
 $password = "b8*db8&K(m|OrF3(";
